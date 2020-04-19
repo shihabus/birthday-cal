@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search snapshot 1`] = `
+<form
+  aria-label="form"
+  class="sc-AxjAm fnuDkL"
+>
+  <label
+    class="sc-AxirZ gxIIuX"
+    for="year-input"
+  >
+    Year
+  </label>
+  <input
+    class="sc-AxiKw eqAHUx"
+    id="year-input"
+    maxlength="4"
+    placeholder="Search by year"
+    value=""
+  />
+  <button
+    aria-label="submit"
+    class="sc-AxhCb fNtaJn"
+    disabled=""
+    type="submit"
+  >
+    Update
+  </button>
+</form>
+`;

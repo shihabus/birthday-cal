@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardSection snapshot 1`] = `
+<section
+  class="sc-AxhUy iwoEhU"
+>
+  <div
+    class="sc-AxirZ hGmzvG"
+  >
+    <div
+      class="sc-AxiKw jxIpNn"
+    >
+      Sun
+    </div>
+    <section
+      class="sc-AxhCb gWzavo"
+    >
+      <div
+        class="sc-AxjAm pncij"
+      >
+        <span
+          aria-label="sad emoji"
+          role="img"
+          style="font-size: 4rem;"
+        >
+          😔
+        </span>
+      </div>
+    </section>
+  </div>
+</section>
+`;
